@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Basic Job App made by using springboot 3 and jsp-jstl
-=======
-# JobWebApp
->>>>>>> 1fa002eeb7f346e9729684d19aa20b395b935337
+Basic job App made usng SpringBoot with the use of PostGre Sql 
+You can View all the Jobs Available 
+You can also Add jobs as an employer
